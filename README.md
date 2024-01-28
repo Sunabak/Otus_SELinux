@@ -65,7 +65,7 @@ Jan 28 09:33:45 selinux systemd[1]: Started The nginx HTTP and reverse proxy ser
 Проверить работу nginx из браузера. Заходим в любой браузер на хосте и переходим по адресу http://127.0.0.1:4881
 
 
-()[]
+![](https://github.com/Sunabak/Otus_SELinux/blob/main/startscreen.png)
 
 
 ## Способ 2: Теперь разрешим в SELinux работу nginx на порту TCP 4881 c помощью добавления нестандартного порта в имеющийся тип
